@@ -11,4 +11,4 @@ Allman Notation
 Changelog
 =========  Newest First
 Added Changelog.md (Jan-19-2017) Bryn
-Added {what}{(who)} to tooltips
+Added {what}{(who)} to tooltips (Jan-22-2017) Bryn
